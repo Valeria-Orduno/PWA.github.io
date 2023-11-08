@@ -1,3 +1,4 @@
+const NOMBRE_CACHE_STATICA = `memoria-cache-estatica-v1`;
 recursos_Staticos= [
   './',
   './converter.js',
